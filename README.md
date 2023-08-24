@@ -1,19 +1,15 @@
 <h3 title="hehehe"> Hey 👋, I'm Adithi!</h3>
 
 
-<a href="https://discord.com/users/844637630355472439">
- <img style="filter: invert();" align="left" alt="Kac's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://discord.com/users/1122979038076620820">
+ <img style="filter: invert();" align="left" alt="Adithi's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://www.instagram.com/kax_dev/">
-  <img style="filter: invert();" align="left" alt="Kac's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/adithiiaprtm/">
+  <img style="filter: invert();" align="left" alt="Adithi's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCLT9JoogOHUg0Pk5-_uA_WA">
-  <img style="filter: invert();" align="left" alt="Kax's YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UClS3K2GGSmMYbIM0iB7WqMA">
+  <img style="filter: invert();" align="left" alt="Adithi's YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
-<a href="https://twitter.com/kax2">
-  <img style="filter: invert();" align="left" alt="Kax's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-
 
 
 
