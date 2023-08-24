@@ -53,8 +53,6 @@ A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1122979038076620820)](https://discord.com/users/1122979038076620820)
 <img src="https://github-readme-stats.vercel.app/api?username=Adithii&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Adithi's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithii&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithii&count_private=true&theme=radical" alt="Jas-Script" />
 
 ----
 
